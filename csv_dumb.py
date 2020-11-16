@@ -19,7 +19,7 @@ plt.style.use('seaborn')
 # -----------------------------------------
 # csv module
 
-with open('data.cvs') as csv_file:
+with open('data_set_1.cvs') as csv_file:
     # dict reader will make dictionaries
     # we can access the data by key
     # e.g. for the first entry

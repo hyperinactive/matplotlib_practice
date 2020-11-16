@@ -1,6 +1,8 @@
 .idea
-data.txt
 venv
 plots
 requirements.txt
-data.cvs
+data.txt
+data_set_1.cvs
+data_set_2.csv
+data_set_3.csv

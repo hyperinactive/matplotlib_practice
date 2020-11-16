@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 plt.style.use('seaborn')
 # with pandas . read_cvs we can read the csv files
 # creates a dictionary - no need to loop
-data = pd.read_csv('data.cvs')
+data = pd.read_csv('data_set_1.cvs')
 row_id = data['Responder_id']
 languages = data['LanguagesWorkedWith']
 
