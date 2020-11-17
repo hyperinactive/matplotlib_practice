@@ -17,7 +17,7 @@ plt.style.use('fivethirtyeight')
 # bins = [10, 20, 30, 40, 50, 60]
 
 
-data = pd.read_csv('data_set_3.cvs')
+data = pd.read_csv('data_set_3.csv')
 ids = data['Responder_id']
 ages = data['Age']
 
